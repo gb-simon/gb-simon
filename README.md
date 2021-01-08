@@ -1,7 +1,7 @@
 #### Hi there 👋, my name is Gonzalo, I'm a software developer based in Argentina.
 ##### Most of the time, I work using MERN Stack, but overall I love making projects with just React, JavaScript or Python.
 
-I have a blog where I like writing articles about my projects from time to time, where I explain my projects and some technical stuff.
+I have a [blog](https://gonzalosimon.hashnode.dev) where I like writing articles about my projects from time to time, where I explain my projects and some technical stuff.
 
 Skills: MongoDB / Express / React / Node / JavaScript / Python
 
