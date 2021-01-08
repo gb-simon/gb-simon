@@ -1,6 +1,6 @@
 #### Hi there 👋, Hi there, my name is Gonzalo, I'm a software developer based in Argentina.
 ##### Most of the time, I work using MERN Stack, but overall I love making projects with just React, JavaScript or Python.
-![Most of the time, I work using MERN Stack, but overall I love making projects with just React, JavaScript or Python.](https://images.unsplash.com/photo-1499673610122-01c7122c5dcb?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1826&q=80)
+Most of the time, I work using MERN Stack, but overall I love making projects with just React, JavaScript or Python.
 
 I have a blog where I like writing articles about my projects from time to time, where I explain my projects and some technical stuff.
 
